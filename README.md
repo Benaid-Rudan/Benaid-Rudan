@@ -4,7 +4,7 @@ I'm Benaid Rudan, a passionate fourth-year Software Engineering student with a l
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Flutter
 - 💬 Ask me about anything, I'm happy to help
 
 ### 📫 Get in Touch
@@ -23,6 +23,7 @@ I'm Benaid Rudan, a passionate fourth-year Software Engineering student with a l
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 
